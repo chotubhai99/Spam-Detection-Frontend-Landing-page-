@@ -25,7 +25,7 @@ function Home() {
                 Protect yourself with our advanced AI-powered detection system.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <a href="http://127.0.0.1:5000"
+                <a href="https://spam-detection-backend.onrender.com"
                 className="inline-flex justify-center items-center px-8 py-3 rounded-lg bg-gradient-to-r from-green-500 to-blue-500 text-white hover:from-green-600 hover:to-blue-600 transition-all">
                 Try It Now
                 </a>
