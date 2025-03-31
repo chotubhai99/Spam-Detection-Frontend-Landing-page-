@@ -1,2 +1,1 @@
-# Spam-Detection-Frontend-Landing-page-
-Landing page
+# Spam-Detection
